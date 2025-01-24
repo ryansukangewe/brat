@@ -1,0 +1,121 @@
+{
+  "total": 109,
+  "ai_response": 323,
+  "cmd": [
+    {
+      "name": "menu",
+      "use": 19,
+      "times": "24/01 10:52:42"
+    },
+    {
+      "name": "jokowi",
+      "use": 1,
+      "times": "23/01 08:53:11"
+    },
+    {
+      "name": "prabowo",
+      "use": 1,
+      "times": "23/01 08:53:11"
+    },
+    {
+      "name": "qc",
+      "use": 11,
+      "times": "23/01 20:13:12"
+    },
+    {
+      "name": "remini",
+      "use": 1,
+      "times": "23/01 08:53:11"
+    },
+    {
+      "name": "tiktok",
+      "use": 1,
+      "times": "23/01 08:59:17"
+    },
+    {
+      "name": "bella",
+      "use": 4,
+      "times": "23/01 09:06:18"
+    },
+    {
+      "name": "addprem",
+      "use": 2,
+      "times": "23/01 09:06:18"
+    },
+    {
+      "name": "text2img",
+      "use": 1,
+      "times": "23/01 09:06:18"
+    },
+    {
+      "name": "toanime",
+      "use": 1,
+      "times": "23/01 09:06:18"
+    },
+    {
+      "name": "stats",
+      "use": 1,
+      "times": "23/01 09:06:18"
+    },
+    {
+      "name": "addenergy",
+      "use": 2,
+      "times": "23/01 20:13:12"
+    },
+    {
+      "name": "hidetag",
+      "use": 5,
+      "times": "24/01 10:52:42"
+    },
+    {
+      "name": "kick",
+      "use": 11,
+      "times": "24/01 10:52:42"
+    },
+    {
+      "name": "close",
+      "use": 2,
+      "times": "24/01 10:52:42"
+    },
+    {
+      "name": "open",
+      "use": 1,
+      "times": "23/01 20:13:12"
+    },
+    {
+      "name": "play",
+      "use": 6,
+      "times": "24/01 10:52:42"
+    },
+    {
+      "name": "autoai",
+      "use": 4,
+      "times": "24/01 10:52:42"
+    },
+    {
+      "name": "reactionmenu",
+      "use": 1,
+      "times": "24/01 06:36:52"
+    },
+    {
+      "name": "lora",
+      "use": 1,
+      "times": "24/01 06:36:52"
+    },
+    {
+      "name": "pinterest",
+      "use": 3,
+      "times": "24/01 10:52:42"
+    },
+    {
+      "name": "elevenlabs",
+      "use": 2,
+      "times": "24/01 06:36:52"
+    },
+    {
+      "name": "brat",
+      "use": 28,
+      "times": "24/01 10:52:42"
+    }
+  ]
+}
